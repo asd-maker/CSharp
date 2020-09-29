@@ -1,0 +1,8 @@
+DateTime : 2020/04/22 14:33:01; Message : System.IndexOutOfRangeException: Cannot find table 0.
+   at System.Data.DataTableCollection.get_Item(Int32 index)
+   at NJCHKOX.DBConn.ExecuteSQLServerSQL(String strConn, String strSQL)
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/22 14:33:01; Message : System.IndexOutOfRangeException: Cannot find table 0.
+   at NJCHKOX.DBConn.ExecuteSQLServerSQL(String strConn, String strSQL)
+   at NJCHKOX.ChkOXClass.GetCartonData()
+----------------------------------------------------------------------------------------------------------

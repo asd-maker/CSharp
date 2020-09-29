@@ -1,0 +1,1887 @@
+DateTime : 2020/04/08 09:45:47; Message : 配置檔案不存在，請確認后重新開啟
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:47; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:48; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:49; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:50; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:51; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:52; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:53; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:54; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:55; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:56; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:57; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:58; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
+DateTime : 2020/04/08 09:45:59; Message : System.ArgumentException: This property cannot be set to an empty string.
+Parameter name: value
+   at System.Net.Mail.SmtpClient.set_Host(String value)
+   at NJCHKOX.ChkOXClass.SendMail(String strSmtp, String strFromAdd, String[] strToAdd, String strSubject, String strBody, String strFile) in D:\REPORT\NJCHKOX\NJCHKOX\NJCHKOX\ChkOXClass.cs:line 237
+----------------------------------------------------------------------------------------------------------
